@@ -1,0 +1,23 @@
+{
+  "manifestVersion": 1,
+  "id": "daily-tab-rotator",
+  "name": "Daily Tab Rotator",
+  "author": "Karim Awad",
+  "repoUrl": "https://github.com/redo123386/remnote-daily-tab-rotator",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "description": "Opens today's daily note and keeps it as your locked tab, moving the lock from yesterday's note each day. Never touches other locked tabs.",
+  "requestNative": true,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreate"
+    }
+  ],
+  "unlisted": true
+}
